@@ -28,6 +28,11 @@ assembly instruction
 ====================
 happy soldering ^_^
 
+datasheets
+==========
+[HT1632C](http://www.adafruit.com/datasheets/ht1632cv120.pdf) <br>
+[MCP73831T](https://www.sparkfun.com/datasheets/Prototyping/Batteries/MCP73831T.pdf) <br>
+
 credits ^_^
 ===========
 [Sparkfun FIO board](https://www.sparkfun.com/products/11520) <br>
