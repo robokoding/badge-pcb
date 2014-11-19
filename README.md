@@ -37,8 +37,10 @@ datasheets
 
 credits ^_^
 ===========
+
 [Sparkfun FIO board](https://www.sparkfun.com/products/11520) <br>
 [Adafruit EAGLE library](https://github.com/adafruit/Adafruit-Eagle-Library/blob/master/adafruit.lbr) <br>
+[HT1632C reference board](http://2.bp.blogspot.com/-Hhg82y6URPg/UglrFuE2HcI/AAAAAAAAALw/jM5RPzM6XEs/s1600/back.jpg) <br>
 [Sparkfun EAGLE libraries](https://github.com/sparkfun/SparkFun-Eagle-Libraries) <br>
 [hosentraeger EAGLE library](https://github.com/hosentraeger/LED-Matrix-HT1632/blob/master/ht1632.lbr) <br>
 [Sparkfun USB Li-Po charger](https://www.sparkfun.com/products/10217) <br>
