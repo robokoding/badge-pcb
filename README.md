@@ -15,10 +15,10 @@ bill of materials
 * 1 x [Micro Mini JST Connector](http://www.ebay.com/itm/271631717682161344644655) only need one pair <br>
 
 **local electronics store:**
-* 1 x RED SMD LED
 * 1 x 2kΩ resistor
 * 8 x 33Ω resistor
 * 1 x 330Ω resistor
+* 1 x red SMD LED
 * 1 x 3V zener diode
 * 3 x 4.7uF ceramic capacitor
 * 1 x 4.7uF electrolytic capacitor
