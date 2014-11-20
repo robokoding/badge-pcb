@@ -7,8 +7,8 @@ LED dot matrix name tag <br>
 bill of materials
 =================
 **ebay:**
-* 1 x [MCP73831T](http://www.ebay.com/itm/251610085563)<br>
 * 1 x [Tilt switch](http://www.ebay.com/itm/251612655766)<br>
+* 1 x [MCP73831T](http://www.ebay.com/itm/251610085563)<br>
 * 2 x [SPDT slide switch](http://www.ebay.com/itm/201095465543)<br>
 * 1 x [3.7V 130mAh Li-Po](http://www.ebay.com/itm/130617227476)<br>
 * 1 x [3.3V 8MHz Pro Mini](http://www.ebay.com/itm/231368307663) <br>
