@@ -45,6 +45,7 @@ credits ^_^
 [HT1632C Arduino library](https://github.com/adafruit/HT1632) <br>
 [HT1632C reference board](http://2.bp.blogspot.com/-Hhg82y6URPg/UglrFuE2HcI/AAAAAAAAALw/jM5RPzM6XEs/s1600/back.jpg) <br>
 [Sparkfun EAGLE libraries](https://github.com/sparkfun/SparkFun-Eagle-Libraries) <br>
+[Titlt switch istructables](http://www.instructables.com/id/Tilt-Sensor-Tutorial/step5/Reading-switch-state-with-a-microcontroller/) <br>
 [hosentraeger EAGLE library](https://github.com/hosentraeger/LED-Matrix-HT1632/blob/master/ht1632.lbr) <br>
 [Sparkfun USB Li-Po charger](https://www.sparkfun.com/products/10217) <br>
 [Jaycon Systems USB Li-Po charger](http://www.jayconsystems.com/micro-usb-lipo-charger-mcp73831.html) <br>
