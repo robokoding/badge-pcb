@@ -7,12 +7,13 @@ LED dot matrix name tag <br>
 bill of materials
 =================
 **ebay:**
-* 1 x [Tilt switch](http://www.ebay.com/itm/251612655766) need one <br>
+* 1 x [MCP73831T](http://www.ebay.com/itm/251610085563)<br>
+* 1 x [Tilt switch](http://www.ebay.com/itm/251612655766)<br>
+* 2 x [SPDT slide switch](http://www.ebay.com/itm/201095465543)<br>
 * 1 x [3.7V 130mAh Li-Po](http://www.ebay.com/itm/130617227476)<br>
 * 1 x [3.3V 8MHz Pro Mini](http://www.ebay.com/itm/231368307663) <br>
 * 1 x [HT1632C LED Driver](http://www.ebay.com/itm/251685195429) <br>
-* 1 x [MCP73831T](http://www.ebay.com/itm/251610085563) just need one actually :) <br>
-* 1 x [Micro Mini JST Connector](http://www.ebay.com/itm/271631717682161344644655) only need one pair <br>
+* 1 x [Micro Mini JST Connector](http://www.ebay.com/itm/271631717682161344644655)<br>
 
 **local electronics store:**
 * 1 x 2kΩ resistor
