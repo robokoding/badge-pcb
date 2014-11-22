@@ -858,22 +858,22 @@ http://ww1.microchip.com/downloads/en/DeviceDoc/21984a.pdf</description>
 <circle x="6.25" y="-8.75" radius="0.95" width="0.127" layer="51"/>
 <circle x="8.75" y="-8.75" radius="0.95" width="0.127" layer="51"/>
 <circle x="-11.43" y="-7.62" radius="0.635" width="1.27" layer="21"/>
-<smd name="1" x="-8.75" y="-9" dx="1.9" dy="0.806" layer="1" rot="R90"/>
-<smd name="2" x="-6.25" y="-6" dx="1.9" dy="0.806" layer="1" rot="R90"/>
-<smd name="3" x="-3.75" y="-9" dx="1.9" dy="0.806" layer="1" rot="R90"/>
-<smd name="4" x="-1.25" y="-6" dx="1.9" dy="0.806" layer="1" rot="R90"/>
-<smd name="5" x="1.25" y="-9" dx="1.9" dy="0.806" layer="1" rot="R90"/>
-<smd name="6" x="3.75" y="-6" dx="1.9" dy="0.806" layer="1" rot="R90"/>
-<smd name="7" x="6.25" y="-9" dx="1.9" dy="0.806" layer="1" rot="R90"/>
-<smd name="8" x="8.75" y="-6" dx="1.9" dy="0.806" layer="1" rot="R90"/>
-<smd name="9" x="8.75" y="9" dx="1.9" dy="0.806" layer="1" rot="R90"/>
-<smd name="10" x="6.25" y="6" dx="1.9" dy="0.806" layer="1" rot="R90"/>
-<smd name="11" x="3.75" y="9" dx="1.9" dy="0.806" layer="1" rot="R90"/>
-<smd name="12" x="1.25" y="6" dx="1.9" dy="0.806" layer="1" rot="R90"/>
-<smd name="13" x="-1.25" y="9" dx="1.9" dy="0.806" layer="1" rot="R90"/>
-<smd name="14" x="-3.75" y="6" dx="1.9" dy="0.806" layer="1" rot="R90"/>
-<smd name="15" x="-6.25" y="9" dx="1.9" dy="0.806" layer="1" rot="R90"/>
-<smd name="16" x="-8.75" y="6" dx="1.9" dy="0.806" layer="1" rot="R90"/>
+<smd name="1" x="-8.75" y="-8.75" dx="2.4" dy="0.806" layer="1" rot="R90"/>
+<smd name="2" x="-6.25" y="-6.25" dx="2.4" dy="0.806" layer="1" rot="R90"/>
+<smd name="3" x="-3.75" y="-8.75" dx="2.4" dy="0.806" layer="1" rot="R90"/>
+<smd name="4" x="-1.25" y="-6.25" dx="2.4" dy="0.806" layer="1" rot="R90"/>
+<smd name="5" x="1.25" y="-8.75" dx="2.4" dy="0.806" layer="1" rot="R90"/>
+<smd name="6" x="3.75" y="-6.25" dx="2.4" dy="0.806" layer="1" rot="R90"/>
+<smd name="7" x="6.25" y="-8.75" dx="2.4" dy="0.806" layer="1" rot="R90"/>
+<smd name="8" x="8.75" y="-6.25" dx="2.4" dy="0.806" layer="1" rot="R90"/>
+<smd name="9" x="8.75" y="8.75" dx="2.4" dy="0.806" layer="1" rot="R90"/>
+<smd name="10" x="6.25" y="6.25" dx="2.4" dy="0.806" layer="1" rot="R90"/>
+<smd name="11" x="3.75" y="8.75" dx="2.4" dy="0.806" layer="1" rot="R90"/>
+<smd name="12" x="1.25" y="6.25" dx="2.4" dy="0.806" layer="1" rot="R90"/>
+<smd name="13" x="-1.25" y="8.75" dx="2.4" dy="0.806" layer="1" rot="R90"/>
+<smd name="14" x="-3.75" y="6.25" dx="2.4" dy="0.806" layer="1" rot="R90"/>
+<smd name="15" x="-6.25" y="8.75" dx="2.4" dy="0.806" layer="1" rot="R90"/>
+<smd name="16" x="-8.75" y="6.25" dx="2.4" dy="0.806" layer="1" rot="R90"/>
 <text x="-10" y="13.125" size="1.27" layer="25">&gt;NAME</text>
 <text x="-10" y="-12.5" size="1.27" layer="27">&gt;VALUE</text>
 <text x="-10" y="11.25" size="1.27" layer="25">C</text>
@@ -2521,20 +2521,20 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <wire x1="-8.89" y1="-16.51" x2="8.89" y2="-16.51" width="0.127" layer="51"/>
 <wire x1="8.89" y1="-16.51" x2="8.89" y2="16.51" width="0.127" layer="51"/>
 <wire x1="8.89" y1="16.51" x2="-8.89" y2="16.51" width="0.127" layer="51"/>
-<smd name="1" x="-7.62" y="12.7" dx="1.9" dy="0.406" layer="1"/>
-<smd name="2" x="-7.62" y="10.16" dx="1.9" dy="0.406" layer="1"/>
-<smd name="3" x="-7.62" y="7.62" dx="1.9" dy="0.406" layer="1"/>
-<smd name="4" x="-7.62" y="5.08" dx="1.9" dy="0.406" layer="1"/>
-<smd name="10" x="-7.62" y="-10.16" dx="1.9" dy="0.406" layer="1"/>
-<smd name="11" x="-7.62" y="-12.7" dx="1.9" dy="0.406" layer="1"/>
-<smd name="12" x="-7.62" y="-15.24" dx="1.9" dy="0.406" layer="1"/>
-<smd name="13" x="7.62" y="-15.24" dx="1.9" dy="0.406" layer="1"/>
-<smd name="14" x="7.62" y="-12.7" dx="1.9" dy="0.406" layer="1"/>
-<smd name="15" x="7.62" y="-10.16" dx="1.9" dy="0.406" layer="1"/>
-<smd name="21" x="7.62" y="5.08" dx="1.9" dy="0.406" layer="1"/>
-<smd name="22" x="7.62" y="7.62" dx="1.9" dy="0.406" layer="1"/>
-<smd name="23" x="7.62" y="10.16" dx="1.9" dy="0.406" layer="1"/>
-<smd name="24" x="7.62" y="12.7" dx="1.9" dy="0.406" layer="1"/>
+<smd name="1" x="-6.37" y="12.7" dx="2.4" dy="0.806" layer="1"/>
+<smd name="2" x="-8.87" y="10.16" dx="2.4" dy="0.806" layer="1"/>
+<smd name="3" x="-6.37" y="7.62" dx="2.4" dy="0.806" layer="1"/>
+<smd name="4" x="-8.87" y="5.08" dx="2.4" dy="0.806" layer="1"/>
+<smd name="10" x="-8.87" y="-10.16" dx="2.4" dy="0.806" layer="1"/>
+<smd name="11" x="-6.37" y="-12.7" dx="2.4" dy="0.806" layer="1"/>
+<smd name="12" x="-8.87" y="-15.24" dx="2.4" dy="0.806" layer="1"/>
+<smd name="13" x="8.87" y="-15.24" dx="2.4" dy="0.806" layer="1"/>
+<smd name="14" x="6.37" y="-12.7" dx="2.4" dy="0.806" layer="1"/>
+<smd name="15" x="8.87" y="-10.16" dx="2.4" dy="0.806" layer="1"/>
+<smd name="21" x="8.87" y="5.08" dx="2.4" dy="0.806" layer="1"/>
+<smd name="22" x="6.37" y="7.62" dx="2.4" dy="0.806" layer="1"/>
+<smd name="23" x="8.87" y="10.16" dx="2.4" dy="0.806" layer="1"/>
+<smd name="24" x="6.37" y="12.7" dx="2.4" dy="0.806" layer="1"/>
 <text x="-3.81" y="-13.97" size="1.27" layer="25">&gt;NAME</text>
 <text x="-3.81" y="-15.875" size="1.27" layer="27">&gt;VALUE</text>
 <wire x1="-3.81" y1="16.51" x2="-3.81" y2="17.78" width="0.127" layer="51"/>
@@ -2883,8 +2883,8 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <wire x1="-1" y1="-1.75" x2="1" y2="-1.75" width="0.2032" layer="21"/>
 <wire x1="1" y1="-1.75" x2="1" y2="-2.25" width="0.2032" layer="21"/>
 <wire x1="-1" y1="-1.75" x2="-1" y2="-2.25" width="0.2032" layer="21"/>
-<pad name="1" x="-1" y="-0.55" drill="0.7" diameter="1.6"/>
-<pad name="2" x="1" y="-0.55" drill="0.7" diameter="1.6"/>
+<smd name="1" x="-1" y="-1.55" dx="2.4" dy="0.806" layer="1" rot="R90"/>
+<smd name="2" x="1" y="-1.55" dx="2.4" dy="0.806" layer="1" rot="R90"/>
 <text x="-1.984" y="3" size="0.4064" layer="25">&gt;Name</text>
 <text x="2.016" y="3" size="0.4064" layer="27">&gt;Value</text>
 <text x="0.616" y="0.75" size="1.27" layer="51">+</text>
@@ -4044,9 +4044,7 @@ Standard 3-pin 0.1" header. Use with straight break away headers (SKU : PRT-0011
 <connect gate="G$1" pin="2" pad="2"/>
 </connects>
 <technologies>
-<technology name="">
-<attribute name="SKU" value="PRT-09914" constant="no"/>
-</technology>
+<technology name=""/>
 </technologies>
 </device>
 <device name="PTH4" package="1X02_XTRA_BIG">
@@ -4142,12 +4140,31 @@ Standard 3-pin 0.1" header. Use with straight break away headers (SKU : PRT-0011
 <text x="-2.54" y="-5.08" size="1.778" layer="96" rot="R90">&gt;VALUE</text>
 <pin name="+3V3" x="0" y="-2.54" visible="off" length="short" direction="sup" rot="R90"/>
 </symbol>
+<symbol name="VCC">
+<wire x1="1.27" y1="-1.905" x2="0" y2="0" width="0.254" layer="94"/>
+<wire x1="0" y1="0" x2="-1.27" y2="-1.905" width="0.254" layer="94"/>
+<text x="-2.54" y="-2.54" size="1.778" layer="96" rot="R90">&gt;VALUE</text>
+<pin name="VCC" x="0" y="-2.54" visible="off" length="short" direction="sup" rot="R90"/>
+</symbol>
 </symbols>
 <devicesets>
 <deviceset name="+3V3" prefix="+3V3">
 <description>&lt;b&gt;SUPPLY SYMBOL&lt;/b&gt;</description>
 <gates>
 <gate name="G$1" symbol="+3V3" x="0" y="0"/>
+</gates>
+<devices>
+<device name="">
+<technologies>
+<technology name=""/>
+</technologies>
+</device>
+</devices>
+</deviceset>
+<deviceset name="VCC" prefix="P+">
+<description>&lt;b&gt;SUPPLY SYMBOL&lt;/b&gt;</description>
+<gates>
+<gate name="VCC" symbol="VCC" x="0" y="0"/>
 </gates>
 <devices>
 <device name="">
@@ -11738,7 +11755,6 @@ Source: http://products.nichicon.co.jp/en/pdf/XJA043/e-ud.pdf</description>
 <part name="R10" library="SparkFun" deviceset="RESISTOR" device="0402-RES" value="2K"/>
 <part name="C1" library="SparkFun" deviceset="CAP" device="0402-CAP" value="4.7uF"/>
 <part name="C2" library="SparkFun" deviceset="CAP" device="0402-CAP" value="4.7uF"/>
-<part name="LIPO" library="SparkFun-Connectors" deviceset="M02" device="JST-PTH-VERT" value="LiPo Battery"/>
 <part name="GND2" library="SparkFun" deviceset="GND" device=""/>
 <part name="LED1" library="adafruit" deviceset="SEGMENT_8X8_ROWCATHODE" device=""/>
 <part name="R1" library="SparkFun" deviceset="RESISTOR" device="0402-RES" value="22"/>
@@ -11754,7 +11770,7 @@ Source: http://products.nichicon.co.jp/en/pdf/XJA043/e-ud.pdf</description>
 <part name="GND1" library="SparkFun" deviceset="GND" device=""/>
 <part name="+3V7" library="supply1" deviceset="+3V3" device="" value="+3V7"/>
 <part name="CHARGING" library="SparkFun-Connectors" deviceset="M03" device="PTH"/>
-<part name="D2" library="diode" deviceset="BAT60J" device="" value=""/>
+<part name="D2" library="diode" deviceset="BAT60J" device="" value="3V"/>
 <part name="+3V1" library="supply1" deviceset="+3V3" device="" value="+3V7"/>
 <part name="+3V2" library="supply1" deviceset="+3V3" device="" value="+3V7"/>
 <part name="GND3" library="SparkFun" deviceset="GND" device=""/>
@@ -11762,11 +11778,12 @@ Source: http://products.nichicon.co.jp/en/pdf/XJA043/e-ud.pdf</description>
 <part name="C4" library="SparkFun" deviceset="CAP" device="0402-CAP" value="4.7uF"/>
 <part name="TILT_SWITCH" library="SparkFun-Connectors" deviceset="M02" device="PTH2" value=""/>
 <part name="R9" library="SparkFun" deviceset="RESISTOR" device="0402-RES" value="10K"/>
-<part name="+3V3" library="supply1" deviceset="+3V3" device=""/>
-<part name="+3V4" library="supply1" deviceset="+3V3" device=""/>
 <part name="GND4" library="SparkFun" deviceset="GND" device=""/>
 <part name="POWER" library="SparkFun-Connectors" deviceset="M03" device="PTH"/>
 <part name="+3V5" library="supply1" deviceset="+3V3" device="" value="+3V7"/>
+<part name="LIPO" library="SparkFun-Connectors" deviceset="M02" device="JST-PTH-VERT" value=""/>
+<part name="P+1" library="supply1" deviceset="VCC" device="" value="+3V3"/>
+<part name="P+2" library="supply1" deviceset="VCC" device="" value="+3V3"/>
 </parts>
 <sheets>
 <sheet>
@@ -11820,9 +11837,6 @@ Source: http://products.nichicon.co.jp/en/pdf/XJA043/e-ud.pdf</description>
 <instance part="R10" gate="G$1" x="119.38" y="63.5" rot="R270"/>
 <instance part="C1" gate="G$1" x="81.28" y="58.42"/>
 <instance part="C2" gate="G$1" x="127" y="63.5"/>
-<instance part="LIPO" gate="G$1" x="147.32" y="71.12" smashed="yes" rot="MR0">
-<attribute name="NAME" x="149.86" y="76.962" size="1.778" layer="95" rot="MR0"/>
-</instance>
 <instance part="GND2" gate="1" x="139.7" y="45.72"/>
 <instance part="LED1" gate="G$1" x="330.2" y="45.72"/>
 <instance part="R1" gate="G$1" x="284.48" y="78.74"/>
@@ -11840,7 +11854,7 @@ Source: http://products.nichicon.co.jp/en/pdf/XJA043/e-ud.pdf</description>
 <instance part="PRO_MICRO" gate="G$1" x="35.56" y="58.42"/>
 <instance part="GND1" gate="1" x="10.16" y="7.62"/>
 <instance part="+3V7" gate="G$1" x="127" y="96.52"/>
-<instance part="CHARGING" gate="G$1" x="175.26" y="73.66" rot="R180"/>
+<instance part="CHARGING" gate="G$1" x="175.26" y="76.2" rot="R180"/>
 <instance part="D2" gate="G$1" x="165.1" y="86.36" rot="R270"/>
 <instance part="+3V1" gate="G$1" x="165.1" y="96.52"/>
 <instance part="+3V2" gate="G$1" x="226.06" y="96.52"/>
@@ -11849,11 +11863,12 @@ Source: http://products.nichicon.co.jp/en/pdf/XJA043/e-ud.pdf</description>
 <instance part="C4" gate="G$1" x="213.36" y="25.4"/>
 <instance part="TILT_SWITCH" gate="G$1" x="142.24" y="20.32" rot="R180"/>
 <instance part="R9" gate="G$1" x="114.3" y="20.32" rot="R180"/>
-<instance part="+3V3" gate="G$1" x="63.5" y="96.52"/>
-<instance part="+3V4" gate="G$1" x="106.68" y="30.48"/>
 <instance part="GND4" gate="1" x="119.38" y="7.62"/>
-<instance part="POWER" gate="G$1" x="175.26" y="53.34" rot="R180"/>
-<instance part="+3V5" gate="G$1" x="165.1" y="63.5"/>
+<instance part="POWER" gate="G$1" x="175.26" y="50.8" rot="R180"/>
+<instance part="+3V5" gate="G$1" x="165.1" y="66.04"/>
+<instance part="LIPO" gate="G$1" x="149.86" y="73.66" rot="R180"/>
+<instance part="P+1" gate="VCC" x="106.68" y="30.48"/>
+<instance part="P+2" gate="VCC" x="63.5" y="96.52"/>
 </instances>
 <busses>
 </busses>
@@ -11874,14 +11889,15 @@ Source: http://products.nichicon.co.jp/en/pdf/XJA043/e-ud.pdf</description>
 <pinref part="C2" gate="G$1" pin="2"/>
 <wire x1="127" y1="55.88" x2="127" y2="60.96" width="0.1524" layer="91"/>
 <wire x1="119.38" y1="55.88" x2="127" y2="55.88" width="0.1524" layer="91"/>
+<wire x1="142.24" y1="71.12" x2="139.7" y2="71.12" width="0.1524" layer="91"/>
 <wire x1="139.7" y1="71.12" x2="139.7" y2="55.88" width="0.1524" layer="91"/>
-<pinref part="LIPO" gate="G$1" pin="1"/>
 <wire x1="127" y1="55.88" x2="139.7" y2="55.88" width="0.1524" layer="91"/>
 <pinref part="GND2" gate="1" pin="GND"/>
 <wire x1="139.7" y1="55.88" x2="139.7" y2="48.26" width="0.1524" layer="91"/>
 <junction x="119.38" y="55.88"/>
 <junction x="127" y="55.88"/>
 <junction x="139.7" y="55.88"/>
+<pinref part="LIPO" gate="G$1" pin="2"/>
 </segment>
 <segment>
 <pinref part="GND1" gate="1" pin="GND"/>
@@ -11941,8 +11957,8 @@ Source: http://products.nichicon.co.jp/en/pdf/XJA043/e-ud.pdf</description>
 </segment>
 <segment>
 <pinref part="CHARGING" gate="G$1" pin="3"/>
-<wire x1="167.64" y1="71.12" x2="160.02" y2="71.12" width="0.1524" layer="91"/>
-<label x="160.02" y="71.12" size="1.778" layer="95"/>
+<wire x1="167.64" y1="73.66" x2="160.02" y2="73.66" width="0.1524" layer="91"/>
+<label x="160.02" y="73.66" size="1.778" layer="95"/>
 </segment>
 </net>
 <net name="N$1" class="0">
@@ -12107,13 +12123,6 @@ Source: http://products.nichicon.co.jp/en/pdf/XJA043/e-ud.pdf</description>
 <pinref part="PRO_MICRO" gate="G$1" pin="11(MOSI)"/>
 <wire x1="48.26" y1="48.26" x2="58.42" y2="48.26" width="0.1524" layer="91"/>
 <label x="58.42" y="48.26" size="1.778" layer="95" rot="MR0"/>
-</segment>
-</net>
-<net name="D2" class="0">
-<segment>
-<wire x1="91.44" y1="68.58" x2="83.82" y2="68.58" width="0.1524" layer="91"/>
-<pinref part="U1" gate="G$1" pin="STAT"/>
-<label x="83.82" y="68.58" size="1.778" layer="95"/>
 </segment>
 </net>
 <net name="COL0" class="0">
@@ -12285,29 +12294,17 @@ Source: http://products.nichicon.co.jp/en/pdf/XJA043/e-ud.pdf</description>
 <junction x="213.36" y="33.02"/>
 </segment>
 <segment>
-<pinref part="PRO_MICRO" gate="G$1" pin="VCC"/>
-<pinref part="+3V3" gate="G$1" pin="+3V3"/>
-<wire x1="48.26" y1="66.04" x2="63.5" y2="66.04" width="0.1524" layer="91"/>
-<wire x1="63.5" y1="66.04" x2="63.5" y2="93.98" width="0.1524" layer="91"/>
-</segment>
-<segment>
-<pinref part="R9" gate="G$1" pin="2"/>
-<pinref part="+3V4" gate="G$1" pin="+3V3"/>
-<wire x1="109.22" y1="20.32" x2="106.68" y2="20.32" width="0.1524" layer="91"/>
-<wire x1="106.68" y1="20.32" x2="106.68" y2="27.94" width="0.1524" layer="91"/>
-</segment>
-<segment>
-<pinref part="POWER" gate="G$1" pin="1"/>
+<pinref part="POWER" gate="G$1" pin="2"/>
 <pinref part="+3V5" gate="G$1" pin="+3V3"/>
-<wire x1="167.64" y1="55.88" x2="165.1" y2="55.88" width="0.1524" layer="91"/>
-<wire x1="165.1" y1="55.88" x2="165.1" y2="60.96" width="0.1524" layer="91"/>
+<wire x1="167.64" y1="50.8" x2="165.1" y2="50.8" width="0.1524" layer="91"/>
+<wire x1="165.1" y1="50.8" x2="165.1" y2="63.5" width="0.1524" layer="91"/>
 </segment>
 </net>
 <net name="RAW" class="0">
 <segment>
 <pinref part="CHARGING" gate="G$1" pin="2"/>
-<wire x1="167.64" y1="73.66" x2="160.02" y2="73.66" width="0.1524" layer="91"/>
-<label x="160.02" y="73.66" size="1.778" layer="95"/>
+<wire x1="167.64" y1="76.2" x2="160.02" y2="76.2" width="0.1524" layer="91"/>
+<label x="160.02" y="76.2" size="1.778" layer="95"/>
 </segment>
 <segment>
 <pinref part="PRO_MICRO" gate="G$1" pin="RAW"/>
@@ -12319,8 +12316,8 @@ Source: http://products.nichicon.co.jp/en/pdf/XJA043/e-ud.pdf</description>
 <segment>
 <pinref part="CHARGING" gate="G$1" pin="1"/>
 <pinref part="D2" gate="G$1" pin="C"/>
-<wire x1="167.64" y1="76.2" x2="165.1" y2="76.2" width="0.1524" layer="91"/>
-<wire x1="165.1" y1="76.2" x2="165.1" y2="83.82" width="0.1524" layer="91"/>
+<wire x1="167.64" y1="78.74" x2="165.1" y2="78.74" width="0.1524" layer="91"/>
+<wire x1="165.1" y1="78.74" x2="165.1" y2="83.82" width="0.1524" layer="91"/>
 </segment>
 </net>
 <net name="TILT" class="0">
@@ -12338,15 +12335,40 @@ Source: http://products.nichicon.co.jp/en/pdf/XJA043/e-ud.pdf</description>
 </net>
 <net name="LIPO" class="0">
 <segment>
-<pinref part="LIPO" gate="G$1" pin="2"/>
-<wire x1="139.7" y1="73.66" x2="134.62" y2="73.66" width="0.1524" layer="91"/>
-<wire x1="132.08" y1="73.66" x2="134.62" y2="73.66" width="0.1524" layer="91"/>
+<wire x1="142.24" y1="73.66" x2="132.08" y2="73.66" width="0.1524" layer="91"/>
 <label x="132.08" y="73.66" size="1.778" layer="95"/>
+<pinref part="LIPO" gate="G$1" pin="1"/>
 </segment>
 <segment>
-<pinref part="POWER" gate="G$1" pin="2"/>
-<wire x1="167.64" y1="53.34" x2="157.48" y2="53.34" width="0.1524" layer="91"/>
-<label x="157.48" y="53.34" size="1.778" layer="95"/>
+<pinref part="POWER" gate="G$1" pin="1"/>
+<wire x1="167.64" y1="53.34" x2="154.94" y2="53.34" width="0.1524" layer="91"/>
+<label x="154.94" y="53.34" size="1.778" layer="95"/>
+</segment>
+</net>
+<net name="STAT" class="0">
+<segment>
+<pinref part="PRO_MICRO" gate="G$1" pin="7"/>
+<wire x1="25.4" y1="50.8" x2="15.24" y2="50.8" width="0.1524" layer="91"/>
+<label x="15.24" y="50.8" size="1.778" layer="95"/>
+</segment>
+<segment>
+<wire x1="91.44" y1="68.58" x2="83.82" y2="68.58" width="0.1524" layer="91"/>
+<pinref part="U1" gate="G$1" pin="STAT"/>
+<label x="83.82" y="68.58" size="1.778" layer="95"/>
+</segment>
+</net>
+<net name="VCC" class="0">
+<segment>
+<pinref part="R9" gate="G$1" pin="2"/>
+<wire x1="109.22" y1="20.32" x2="106.68" y2="20.32" width="0.1524" layer="91"/>
+<wire x1="106.68" y1="20.32" x2="106.68" y2="27.94" width="0.1524" layer="91"/>
+<pinref part="P+1" gate="VCC" pin="VCC"/>
+</segment>
+<segment>
+<pinref part="PRO_MICRO" gate="G$1" pin="VCC"/>
+<wire x1="48.26" y1="66.04" x2="63.5" y2="66.04" width="0.1524" layer="91"/>
+<wire x1="63.5" y1="66.04" x2="63.5" y2="93.98" width="0.1524" layer="91"/>
+<pinref part="P+2" gate="VCC" pin="VCC"/>
 </segment>
 </net>
 </nets>
