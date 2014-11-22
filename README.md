@@ -2,7 +2,9 @@ nametag
 =======
 
 LED dot matrix name tag <br>
+<img src="https://fbcdn-sphotos-d-a.akamaihd.net/hphotos-ak-xfp1/t31.0-8/1795141_746690852052819_3133616661376235879_o.png" alt="schematics" height="200px">
 <img src="http://www.adafruit.com/images/970x728/959-00.jpg" alt="led matrix" height="200px">
+<img src="https://scontent-a.xx.fbcdn.net/hphotos-xpf1/t31.0-8/1272492_746689705386267_6565466871789174141_o.png" alt="schematics" height="200px">
 
 bill of materials
 =================
