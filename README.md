@@ -3,7 +3,8 @@ nametag
 
 LED dot matrix name tag <br>
 <img src="https://fbcdn-sphotos-d-a.akamaihd.net/hphotos-ak-xfp1/t31.0-8/1795141_746690852052819_3133616661376235879_o.png" alt="schematics" height="200px">
-<img src="http://www.adafruit.com/images/970x728/959-00.jpg" alt="led matrix" height="200px">
+<img src="https://lh3.googleusercontent.com/-ZeuCJGnl9f8/VKWPiVaf6zI/AAAAAAAAJvo/ox91LH3fQUs/w704-h939-no/IMG_20141219_155338.jpg" alt="stuff" height="200px">
+<img src="https://lh5.googleusercontent.com/-5B948KW8N7Y/VKWPiV_oP2I/AAAAAAAAJv0/iCBPvI00I10/w1252-h939-no/IMG_20141222_130808.jpg" alt="schematics" height="200px">
 <img src="https://scontent-a.xx.fbcdn.net/hphotos-xpf1/t31.0-8/1272492_746689705386267_6565466871789174141_o.png" alt="schematics" height="200px">
 
 bill of materials
